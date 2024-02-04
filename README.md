@@ -54,6 +54,7 @@ _Sopra Steria | 2005 – 2008_
 ## 👨‍💻SIDE PROJECTS
 
   - **VagaBound: A Random Holidays Generator**: Sandbox to play around with Postman and some public APIs from Open AI and Rapid API. 🔗[Postman: VagaBound](https://www.postman.com/felipecrespo/workspace/felipecrespo-public/collection/15751629-253e4129-27ba-4cd3-b7cc-1130a843d1a4)
+  - **Karate - Deck of Cards API**: Sandbox to play around with Karate and some "Deck Of Carfs API". 🔗[GitHub: karate-deckofcards]([https://www.postman.com/felipecrespo/workspace/felipecrespo-public/collection/15751629-253e4129-27ba-4cd3-b7cc-1130a843d1a4](https://github.com/fecresgam/karate-deckofcards)
 
 ## 🔨SKILLS
 
